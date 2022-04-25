@@ -2,6 +2,8 @@
 
 Blood Bank Donation System is a php based web project with both admin and user layouts.
 
+
+An Online System built for the Blood Donation Organisation to manage the Blood Bank System in which Blood Donors can willingly give their name and the Person in need of blood can find whether the Blood is available or not.
 # Installation
 
 1. Install XAMPP or WAMPP.
